@@ -13,7 +13,7 @@ import os
 
 app = Flask(__name__)
 
-# kankyo hensu syutoku
+
 YOUR_CHANNEL_ACCESS_TOKEN = os.environ["YOUR_CHANNEL_ACCESS_TOKEN"]
 YOUR_CHANNEL_SECRET = os.environ["YOUR_CHANNEL_SECRET"]
 
